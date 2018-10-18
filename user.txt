@@ -1,2 +1,3 @@
 Sirikunya Hattakarn major
-Wichuta Mardadum
+Wichuta Mardadum minor
+
